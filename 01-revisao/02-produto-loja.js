@@ -8,3 +8,9 @@
 
 // Escreva sua solução abaixo:
 
+const produto = "Monitor";
+let preco = 540;
+let quantidade = 2;
+console.log("Você comprou " + quantidade + " " + produto + ", cada " + produto + " custa R$ " + preco + ", o valor total é R$ " + (preco * quantidade) + ".00");
+console.log(`Você comprou ${quantidade} ${produto}, cada ${produto} custa R$ ${preco}, o valor total é R$ ${preco * quantidade}.00`);
+

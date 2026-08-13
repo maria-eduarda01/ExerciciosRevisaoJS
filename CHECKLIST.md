@@ -1,6 +1,6 @@
 CHECKLIST - REVISÃO JAVASCRIPT
 
-[ ] 01 ao 07 - Revisão
+[X] 01 ao 07 - Revisão
 [ ] 08 ao 17 - Condicionais
 [ ] 18 ao 27 - Laços de repetição
 [ ] 28 ao 35 - Arrays

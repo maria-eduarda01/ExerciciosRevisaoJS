@@ -12,3 +12,28 @@
 
 // Escreva sua solução abaixo:
 
+let opcao = 3;
+
+switch (opcao) {
+
+    case 1:
+        console.log("Água");
+        break;
+    case 2:
+        console.log("Suco");
+        break;
+    case 3:
+        console.log("Refrigerante");
+        break;
+    case 4:
+        console.log("Café");
+        break;
+    default:
+        console.log("Opção inválida");
+        break;
+}   
+
+
+
+
+
